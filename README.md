@@ -27,7 +27,7 @@ This repository is designed to:
 ## How to Use
 
 - Browse to find the relevant installation file
-- Follow the steps in your selected tool’s .md guide
+- Follow the steps in your selected tool’s `.md` guide
 - Use the troubleshooting notes at the bottom of each guide if things break
 - Continue to the next guide as required for your module
 
