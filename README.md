@@ -8,11 +8,8 @@ You will find step-by-step setup instructions for tools such as:
 1. Hadoop (HDFS & YARN)
 2. Apache Hive
 3. Apache Spark
-4. Java (JDK 8 & JDK 11)
-5. PostgreSQL / MySQL
-6. Python & Virtual Environments
-7. Airflow
-8. Kafka (optional depending on module)
+4. Airflow
+5. Kafka
 
 Each guide is located in its own `.md` file for easy navigation and reference.
 
