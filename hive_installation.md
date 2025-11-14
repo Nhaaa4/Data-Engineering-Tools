@@ -99,3 +99,15 @@ wget https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.
 cd ~
 schematool -dbType derby -initSchema
 ```
+
+### Start hive
+
+```bash
+hive
+```
+
+or
+
+```bash
+beeline -u jdbc:hive2://
+```
