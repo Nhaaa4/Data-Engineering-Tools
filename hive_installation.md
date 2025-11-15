@@ -1,6 +1,6 @@
 # Install Apache Hive
 
-This guide explains how to install and configure Apache Hive 3.1.3 on Ubuntu using Java 8 and Derby as the default metastore. Before install Apache Hive, You must install Apache Hadoop first. [Apache Hadoop Installation](https://github.com/Nhaaa4/Data-Engineering-Tools/edit/main/hadoop_installation.md)
+This guide explains how to install and configure Apache Hive 3.1.3 on Ubuntu using Java 8 and Derby as the default metastore. Before install Apache Hive, You must install Apache Hadoop first. [Apache Hadoop Installation](https://github.com/Nhaaa4/Data-Engineering-Tools/blob/main/hadoop_installation.md)
 
 ## 1. Install Java (JDK 8)
 
