@@ -87,7 +87,7 @@ to:
 
 ### 3.3 Fix invalid XML character
 
-At around line 3223, remove the &#8; characters inside the description.
+At around line 3223, remove the `&#8;` characters inside the description.
 
 Change this:
 
