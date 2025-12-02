@@ -151,7 +151,7 @@ nano hive-env.sh
 
 Add:
 ```
-HADOOP_HOME=/usr/local/Hadoop
+HADOOP_HOME=/usr/local/hadoop
 ```
 ## 6. Fix Guava version conflict
 
